@@ -1,2 +1,2 @@
 # three-demos
-three.js 学习demos
+记录three.js学习demos
